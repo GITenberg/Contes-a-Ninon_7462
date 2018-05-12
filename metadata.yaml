@@ -1,4 +1,8 @@
 _repo: Contes-a-Ninon_7462
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Zola, Émile
@@ -11,6 +15,8 @@ creator:
     - http://en.wikipedia.org/wiki/Émile_Zola
     - http://fr.wikipedia.org/wiki/%C3%89mile_Zola
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7462#Contes-a-Ninon
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2005-02-01'
 gutenberg_type: Text
