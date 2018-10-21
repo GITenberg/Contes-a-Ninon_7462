@@ -29,6 +29,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'French literature'
 - !lcc 'PQ'
+- GITenberg
 tableOfContents: A Ninon -- Simplice -- Le carnet de danse -- Celle qui m'aime --
   La fée amoureuse -- Le sang -- Les voleurs et l'âne -- Soeur-des-pauvres -- Aventures
   du grand Sidoine et du petit Médéric.
